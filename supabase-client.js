@@ -1,4 +1,0 @@
-const supabaseUrl = 'https://muksyqlyztotimdwnqcu.supabase.co';
-const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im11a3N5cWx5enRvdGltZHducWN1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTQ1OTEzMjIsImV4cCI6MjA3MDE2NzMyMn0.qindLVPRp6gn6aSvocSQND-qD8Jij4yDkjlcoGgfOWg';
-
-const supabase = supabase.createClient(supabaseUrl, supabaseKey);
